@@ -1,0 +1,1792 @@
+[
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "IntEnum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DataVariable",
+        "importPath": "dgus.display.controls.data_variable",
+        "description": "dgus.display.controls.data_variable",
+        "isExtraImport": true,
+        "detail": "dgus.display.controls.data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SerialCommunication",
+        "importPath": "dgus.display.communication.communication_interface",
+        "description": "dgus.display.communication.communication_interface",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.communication_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "importPath": "moonraker.websocket_interface",
+        "description": "moonraker.websocket_interface",
+        "isExtraImport": true,
+        "detail": "moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "KlipperValueType",
+        "importPath": "controls.klipper_value_format",
+        "description": "controls.klipper_value_format",
+        "isExtraImport": true,
+        "detail": "controls.klipper_value_format",
+        "documentation": {}
+    },
+    {
+        "label": "KlipperValueType",
+        "importPath": "controls.klipper_value_format",
+        "description": "controls.klipper_value_format",
+        "isExtraImport": true,
+        "detail": "controls.klipper_value_format",
+        "documentation": {}
+    },
+    {
+        "label": "KlipperValueType",
+        "importPath": "controls.klipper_value_format",
+        "description": "controls.klipper_value_format",
+        "isExtraImport": true,
+        "detail": "controls.klipper_value_format",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TextVariable",
+        "importPath": "dgus.display.controls.text_variable",
+        "description": "dgus.display.controls.text_variable",
+        "isExtraImport": true,
+        "detail": "dgus.display.controls.text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "TextVariable",
+        "importPath": "dgus.display.controls.text_variable",
+        "description": "dgus.display.controls.text_variable",
+        "isExtraImport": true,
+        "detail": "dgus.display.controls.text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "TextVariable",
+        "importPath": "dgus.display.controls.text_variable",
+        "description": "dgus.display.controls.text_variable",
+        "isExtraImport": true,
+        "detail": "dgus.display.controls.text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "byteorder",
+        "importPath": "sys",
+        "description": "sys",
+        "isExtraImport": true,
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "exit",
+        "importPath": "sys",
+        "description": "sys",
+        "isExtraImport": true,
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "attr",
+        "description": "attr",
+        "isExtraImport": true,
+        "detail": "attr",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "importPath": "distutils.log",
+        "description": "distutils.log",
+        "isExtraImport": true,
+        "detail": "distutils.log",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "listdir",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "dumps",
+        "importPath": "json",
+        "description": "json",
+        "isExtraImport": true,
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketApp",
+        "importPath": "websocket",
+        "description": "websocket",
+        "isExtraImport": true,
+        "detail": "websocket",
+        "documentation": {}
+    },
+    {
+        "label": "merge",
+        "importPath": "jsonmerge",
+        "description": "jsonmerge",
+        "isExtraImport": true,
+        "detail": "jsonmerge",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "JsonSerializable",
+        "importPath": "dgus.display.serialization.json_serializable",
+        "description": "dgus.display.serialization.json_serializable",
+        "isExtraImport": true,
+        "detail": "dgus.display.serialization.json_serializable",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "importPath": "moonraker.request_id",
+        "description": "moonraker.request_id",
+        "isExtraImport": true,
+        "detail": "moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerRequest",
+        "importPath": "moonraker.moonraker_request",
+        "description": "moonraker.moonraker_request",
+        "isExtraImport": true,
+        "detail": "moonraker.moonraker_request",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerRequest",
+        "importPath": "moonraker.moonraker_request",
+        "description": "moonraker.moonraker_request",
+        "isExtraImport": true,
+        "detail": "moonraker.moonraker_request",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerRequest",
+        "importPath": "moonraker.moonraker_request",
+        "description": "moonraker.moonraker_request",
+        "isExtraImport": true,
+        "detail": "moonraker.moonraker_request",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerRequest",
+        "importPath": "moonraker.moonraker_request",
+        "description": "moonraker.moonraker_request",
+        "isExtraImport": true,
+        "detail": "moonraker.moonraker_request",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerRequest",
+        "importPath": "moonraker.moonraker_request",
+        "description": "moonraker.moonraker_request",
+        "isExtraImport": true,
+        "detail": "moonraker.moonraker_request",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "KlippyState",
+        "importPath": "moonraker.klippy_state",
+        "description": "moonraker.klippy_state",
+        "isExtraImport": true,
+        "detail": "moonraker.klippy_state",
+        "documentation": {}
+    },
+    {
+        "label": "KlippyState",
+        "importPath": "moonraker.klippy_state",
+        "description": "moonraker.klippy_state",
+        "isExtraImport": true,
+        "detail": "moonraker.klippy_state",
+        "documentation": {}
+    },
+    {
+        "label": "KlippyState",
+        "importPath": "moonraker.klippy_state",
+        "description": "moonraker.klippy_state",
+        "isExtraImport": true,
+        "detail": "moonraker.klippy_state",
+        "documentation": {}
+    },
+    {
+        "label": "PrinterState",
+        "importPath": "moonraker.printer_state",
+        "description": "moonraker.printer_state",
+        "isExtraImport": true,
+        "detail": "moonraker.printer_state",
+        "documentation": {}
+    },
+    {
+        "label": "PrinterState",
+        "importPath": "moonraker.printer_state",
+        "description": "moonraker.printer_state",
+        "isExtraImport": true,
+        "detail": "moonraker.printer_state",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "dgus.display.communication.request",
+        "description": "dgus.display.communication.request",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.request",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "dgus.display.communication.request",
+        "description": "dgus.display.communication.request",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.request",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "dgus.display.communication.request",
+        "description": "dgus.display.communication.request",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.request",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "dgus.display.communication.request",
+        "description": "dgus.display.communication.request",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.request",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "dgus.display.communication.request",
+        "description": "dgus.display.communication.request",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.request",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "dgus.display.communication.request",
+        "description": "dgus.display.communication.request",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.request",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Mask",
+        "importPath": "dgus.display.mask",
+        "description": "dgus.display.mask",
+        "isExtraImport": true,
+        "detail": "dgus.display.mask",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "dgus.display.display",
+        "description": "dgus.display.display",
+        "isExtraImport": true,
+        "detail": "dgus.display.display",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "dgus.display.display",
+        "description": "dgus.display.display",
+        "isExtraImport": true,
+        "detail": "dgus.display.display",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "dgus.display.display",
+        "description": "dgus.display.display",
+        "isExtraImport": true,
+        "detail": "dgus.display.display",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerDataVariable",
+        "importPath": "controls.moonraker_data_variable",
+        "description": "controls.moonraker_data_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerDataVariable",
+        "importPath": "controls.moonraker_data_variable",
+        "description": "controls.moonraker_data_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerDataVariable",
+        "importPath": "controls.moonraker_data_variable",
+        "description": "controls.moonraker_data_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerDataVariable",
+        "importPath": "controls.moonraker_data_variable",
+        "description": "controls.moonraker_data_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerDataVariable",
+        "importPath": "controls.moonraker_data_variable",
+        "description": "controls.moonraker_data_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "build_write_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_write_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_mask_switch_request",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_write_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_read_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_write_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_write_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_read_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "build_write_vp",
+        "importPath": "dgus.display.communication.protocol",
+        "description": "dgus.display.communication.protocol",
+        "isExtraImport": true,
+        "detail": "dgus.display.communication.protocol",
+        "documentation": {}
+    },
+    {
+        "label": "KeyCodes",
+        "importPath": "keycodes",
+        "description": "keycodes",
+        "isExtraImport": true,
+        "detail": "keycodes",
+        "documentation": {}
+    },
+    {
+        "label": "KeyCodes",
+        "importPath": "keycodes",
+        "description": "keycodes",
+        "isExtraImport": true,
+        "detail": "keycodes",
+        "documentation": {}
+    },
+    {
+        "label": "KeyCodes",
+        "importPath": "keycodes",
+        "description": "keycodes",
+        "isExtraImport": true,
+        "detail": "keycodes",
+        "documentation": {}
+    },
+    {
+        "label": "KeyCodes",
+        "importPath": "keycodes",
+        "description": "keycodes",
+        "isExtraImport": true,
+        "detail": "keycodes",
+        "documentation": {}
+    },
+    {
+        "label": "KeyCodes",
+        "importPath": "keycodes",
+        "description": "keycodes",
+        "isExtraImport": true,
+        "detail": "keycodes",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "importPath": "data_addresses",
+        "description": "data_addresses",
+        "isExtraImport": true,
+        "detail": "data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "OnScreenKeyBoard",
+        "importPath": "dgus.display.onscreen_keyboard",
+        "description": "dgus.display.onscreen_keyboard",
+        "isExtraImport": true,
+        "detail": "dgus.display.onscreen_keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "OnScreenKeyBoard",
+        "importPath": "dgus.display.onscreen_keyboard",
+        "description": "dgus.display.onscreen_keyboard",
+        "isExtraImport": true,
+        "detail": "dgus.display.onscreen_keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "OnScreenKeyBoard",
+        "importPath": "dgus.display.onscreen_keyboard",
+        "description": "dgus.display.onscreen_keyboard",
+        "isExtraImport": true,
+        "detail": "dgus.display.onscreen_keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerTextVariable",
+        "importPath": "controls.moonraker_text_variable",
+        "description": "controls.moonraker_text_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "TextVariable",
+        "importPath": "controls.moonraker_text_variable",
+        "description": "controls.moonraker_text_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerTextVariable",
+        "importPath": "controls.moonraker_text_variable",
+        "description": "controls.moonraker_text_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerTextVariable",
+        "importPath": "controls.moonraker_text_variable",
+        "description": "controls.moonraker_text_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "logging.config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "importPath": "signal",
+        "description": "signal",
+        "isExtraImport": true,
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "SIGINT",
+        "importPath": "signal",
+        "description": "signal",
+        "isExtraImport": true,
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "OverviewDisplayMask",
+        "importPath": "overview_display_mask",
+        "description": "overview_display_mask",
+        "isExtraImport": true,
+        "detail": "overview_display_mask",
+        "documentation": {}
+    },
+    {
+        "label": "AxesDisplayMask",
+        "importPath": "axes_display_mask",
+        "description": "axes_display_mask",
+        "isExtraImport": true,
+        "detail": "axes_display_mask",
+        "documentation": {}
+    },
+    {
+        "label": "HomeingDisplayMask",
+        "importPath": "homeing_mask",
+        "description": "homeing_mask",
+        "isExtraImport": true,
+        "detail": "homeing_mask",
+        "documentation": {}
+    },
+    {
+        "label": "TuningMask",
+        "importPath": "tuning_mask",
+        "description": "tuning_mask",
+        "isExtraImport": true,
+        "detail": "tuning_mask",
+        "documentation": {}
+    },
+    {
+        "label": "ExtruderMask",
+        "importPath": "extruder_mask",
+        "description": "extruder_mask",
+        "isExtraImport": true,
+        "detail": "extruder_mask",
+        "documentation": {}
+    },
+    {
+        "label": "ExtruderTemperatureToLowMask",
+        "importPath": "extruder_temp_to_low_mask",
+        "description": "extruder_temp_to_low_mask",
+        "isExtraImport": true,
+        "detail": "extruder_temp_to_low_mask",
+        "documentation": {}
+    },
+    {
+        "label": "FanMask",
+        "importPath": "fan_display_mask",
+        "description": "fan_display_mask",
+        "isExtraImport": true,
+        "detail": "fan_display_mask",
+        "documentation": {}
+    },
+    {
+        "label": "StartupMask",
+        "importPath": "startup_mask",
+        "description": "startup_mask",
+        "isExtraImport": true,
+        "detail": "startup_mask",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerPrintTimeTextVariable",
+        "importPath": "controls.moonraker_printtime_text_variable",
+        "description": "controls.moonraker_printtime_text_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_printtime_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "PrintTimeDisplay",
+        "importPath": "controls.moonraker_printtime_text_variable",
+        "description": "controls.moonraker_printtime_text_variable",
+        "isExtraImport": true,
+        "detail": "controls.moonraker_printtime_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "project",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "project = 'klipper-dgus (DGUS Display for Klipper3D)'\ncopyright = '2022, Sebastian Holzgreve'\nauthor = 'Sebastian Holzgreve'\n# The full version, including alpha/beta/rc tags\nrelease = '0.0.1'\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\nextensions = [",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "copyright",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "copyright = '2022, Sebastian Holzgreve'\nauthor = 'Sebastian Holzgreve'\n# The full version, including alpha/beta/rc tags\nrelease = '0.0.1'\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\nextensions = [\n    'sphinxcontrib.plantuml',",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "author",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "author = 'Sebastian Holzgreve'\n# The full version, including alpha/beta/rc tags\nrelease = '0.0.1'\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\nextensions = [\n    'sphinxcontrib.plantuml',\n    'sphinx.ext.todo'",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "release",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "release = '0.0.1'\n# -- General configuration ---------------------------------------------------\n# Add any Sphinx extension module names here, as strings. They can be\n# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom\n# ones.\nextensions = [\n    'sphinxcontrib.plantuml',\n    'sphinx.ext.todo'\n]\n# Add any paths that contain templates here, relative to this directory.",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "extensions",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "extensions = [\n    'sphinxcontrib.plantuml',\n    'sphinx.ext.todo'\n]\n# Add any paths that contain templates here, relative to this directory.\ntemplates_path = ['_templates']\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.\n# This pattern also affects html_static_path and html_extra_path.\nexclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "templates_path",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "templates_path = ['_templates']\n# List of patterns, relative to source directory, that match files and\n# directories to ignore when looking for source files.\n# This pattern also affects html_static_path and html_extra_path.\nexclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']\n# -- Options for HTML output -------------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#\nhtml_theme = 'sphinx_rtd_theme'",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "exclude_patterns",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']\n# -- Options for HTML output -------------------------------------------------\n# The theme to use for HTML and HTML Help pages.  See the documentation for\n# a list of builtin themes.\n#\nhtml_theme = 'sphinx_rtd_theme'\n# Add any paths that contain custom static files (such as style sheets) here,\n# relative to this directory. They are copied after the builtin static files,\n# so a file named \"default.css\" will overwrite the builtin \"default.css\".\nhtml_static_path = ['_static']",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_theme",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "html_theme = 'sphinx_rtd_theme'\n# Add any paths that contain custom static files (such as style sheets) here,\n# relative to this directory. They are copied after the builtin static files,\n# so a file named \"default.css\" will overwrite the builtin \"default.css\".\nhtml_static_path = ['_static']\ntodo_include_todos = True",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "html_static_path",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "html_static_path = ['_static']\ntodo_include_todos = True",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "todo_include_todos",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.doc.conf",
+        "description": "Wiki.klipper-dgus-master.doc.conf",
+        "peekOfCode": "todo_include_todos = True",
+        "detail": "Wiki.klipper-dgus-master.doc.conf",
+        "documentation": {}
+    },
+    {
+        "label": "KlipperValueType",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.controls.klipper_value_format",
+        "description": "Wiki.klipper-dgus-master.src.controls.klipper_value_format",
+        "peekOfCode": "class KlipperValueType(IntEnum):\n    FLOAT = 0\n    PERCENTAGE = 1",
+        "detail": "Wiki.klipper-dgus-master.src.controls.klipper_value_format",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerDataVariable",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.controls.moonraker_data_variable",
+        "description": "Wiki.klipper-dgus-master.src.controls.moonraker_data_variable",
+        "peekOfCode": "class MoonrakerDataVariable(DataVariable):\n    websock : WebsocketInterface = None\n    klipper_data : List = []\n    klipper_value_type : KlipperValueType = None\n    array_index = -1\n    fixed_point_decimal_places : int = 1\n    def __init__(self, comInterface: SerialCommunication, dataAddress: int, dataLength: int, configAddress: int, websock : WebsocketInterface, klipper_value_type = KlipperValueType.FLOAT) -> None:\n        super().__init__(comInterface, dataAddress, dataLength, configAddress)\n        self.websock = websock\n        self.klipper_value_type = klipper_value_type",
+        "detail": "Wiki.klipper-dgus-master.src.controls.moonraker_data_variable",
+        "documentation": {}
+    },
+    {
+        "label": "PrintTimeDisplay",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.controls.moonraker_printtime_text_variable",
+        "description": "Wiki.klipper-dgus-master.src.controls.moonraker_printtime_text_variable",
+        "peekOfCode": "class PrintTimeDisplay(IntEnum):\n    TOTAL_TIME = 0\n    TIME_TILL_FINISH = 1\nclass MoonrakerPrintTimeTextVariable(TextVariable):\n    web_sock : WebsocketInterface = None\n    klipper_data = []\n    time_type : PrintTimeDisplay = PrintTimeDisplay.TOTAL_TIME\n    def __init__(self, comInterface: SerialCommunication, dataAddress: int, configAddress: int, TextLength: int, web_sock : WebsocketInterface, time_type: PrintTimeDisplay) -> None:\n        super().__init__(comInterface, dataAddress, configAddress, TextLength)\n        self.get_control_data_cb = self.get_text",
+        "detail": "Wiki.klipper-dgus-master.src.controls.moonraker_printtime_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerPrintTimeTextVariable",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.controls.moonraker_printtime_text_variable",
+        "description": "Wiki.klipper-dgus-master.src.controls.moonraker_printtime_text_variable",
+        "peekOfCode": "class MoonrakerPrintTimeTextVariable(TextVariable):\n    web_sock : WebsocketInterface = None\n    klipper_data = []\n    time_type : PrintTimeDisplay = PrintTimeDisplay.TOTAL_TIME\n    def __init__(self, comInterface: SerialCommunication, dataAddress: int, configAddress: int, TextLength: int, web_sock : WebsocketInterface, time_type: PrintTimeDisplay) -> None:\n        super().__init__(comInterface, dataAddress, configAddress, TextLength)\n        self.get_control_data_cb = self.get_text\n        self.time_type = time_type\n        self.web_sock = web_sock\n    def set_klipper_data(self, klipper_data):",
+        "detail": "Wiki.klipper-dgus-master.src.controls.moonraker_printtime_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerTextVariable",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.controls.moonraker_text_variable",
+        "description": "Wiki.klipper-dgus-master.src.controls.moonraker_text_variable",
+        "peekOfCode": "class MoonrakerTextVariable(TextVariable):\n    web_sock : WebsocketInterface = None\n    klipper_data = []\n    def __init__(self, comInterface: SerialCommunication, dataAddress: int, configAddress: int, TextLength: int, web_sock : WebsocketInterface) -> None:\n        super().__init__(comInterface, dataAddress, configAddress, TextLength)\n        self.get_control_data_cb = self.get_text\n        self.web_sock = web_sock\n    def set_klipper_data(self, klipper_data):\n        self.klipper_data = klipper_data\n    def get_text(self) -> bytes:",
+        "detail": "Wiki.klipper-dgus-master.src.controls.moonraker_text_variable",
+        "documentation": {}
+    },
+    {
+        "label": "KlippyState",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.moonraker.klippy_state",
+        "description": "Wiki.klipper-dgus-master.src.moonraker.klippy_state",
+        "peekOfCode": "class KlippyState(Enum):\n    UNKOWN = 0,\n    READY = 1,\n    ERROR = 2,\n    SHUTDOWN = 3,\n    STARTUP = 4,\n    DISCONNECTED = 5\n    @staticmethod\n    def get_state_for_string(state_string):\n        if state_string == \"ready\":",
+        "detail": "Wiki.klipper-dgus-master.src.moonraker.klippy_state",
+        "documentation": {}
+    },
+    {
+        "label": "MoonrakerRequest",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.moonraker.moonraker_request",
+        "description": "Wiki.klipper-dgus-master.src.moonraker.moonraker_request",
+        "peekOfCode": "class MoonrakerRequest():\n    response_received_callback : Callable[[dict], None] = None\n    request_was_send_callback : Callable = None\n    request : dict = None",
+        "detail": "Wiki.klipper-dgus-master.src.moonraker.moonraker_request",
+        "documentation": {}
+    },
+    {
+        "label": "PrinterState",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.moonraker.printer_state",
+        "description": "Wiki.klipper-dgus-master.src.moonraker.printer_state",
+        "peekOfCode": "class PrinterState(IntEnum):\n    UNKNOWN = -1,\n    STANDBYE = 0,\n    PRINTING = 1\n    PAUSED = 2,\n    COMPLETE = 3,\n    CANCELLED = 4,\n    ERROR = 5\n    @staticmethod\n    def get_state_for_string(state : str):",
+        "detail": "Wiki.klipper-dgus-master.src.moonraker.printer_state",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocktRequestId",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.moonraker.request_id",
+        "description": "Wiki.klipper-dgus-master.src.moonraker.request_id",
+        "peekOfCode": "class WebsocktRequestId(IntEnum):\n    QUERY_PRINTER_OBJECTS = 0\n    SUBSCRIBE_REQUEST = 1,\n    QUERY_SERVER_INFO = 2,\n    ADJUST_ZOFFSET = 3,\n    WRITE_SPEED_FACTOR = 4,\n    EXTRUDE_FILAMENT_CMD = 5,\n    PERFORM_MOVE_CMD = 6,\n    TURN_MOTORS_OFF_CMD = 7,\n    LED_CMD = 8,",
+        "detail": "Wiki.klipper-dgus-master.src.moonraker.request_id",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketInterface",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.moonraker.websocket_interface",
+        "description": "Wiki.klipper-dgus-master.src.moonraker.websocket_interface",
+        "peekOfCode": "class WebsocketInterface(JsonSerializable):\n    ws_app : WebSocketApp\n    thread : Thread\n    cyclic_query_thread : Thread\n    open : bool = False\n    printer_ip = \"1.2.3.4\"\n    port = 7125\n    json_data_modell = {}\n    server_info = {}\n    cyclic_query_thread_running = False",
+        "detail": "Wiki.klipper-dgus-master.src.moonraker.websocket_interface",
+        "documentation": {}
+    },
+    {
+        "label": "AxesDisplayMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.axes_display_mask",
+        "description": "Wiki.klipper-dgus-master.src.axes_display_mask",
+        "peekOfCode": "class AxesDisplayMask(Mask):\n    web_socket : WebsocketInterface = None\n    display : Display = None\n    distance : int = 10\n    logger = logging.getLogger(__name__)\n    def __init__(self, com_interface: SerialCommunication, web_sock : WebsocketInterface, display : Display) -> None:\n        super().__init__(1, com_interface)\n        self.web_socket = web_sock\n        self.display = display\n        self.xpos = MoonrakerDataVariable(self._com_interface, DataAddress.LIVE_X_POS, 2, DataAddress.UNDEFINED, self.web_socket)",
+        "detail": "Wiki.klipper-dgus-master.src.axes_display_mask",
+        "documentation": {}
+    },
+    {
+        "label": "determine_serial_interface",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "def determine_serial_interface():\n    print(\"Please disconnect USB-TTL used for DGUS Display...\")\n    input(\"Press Enter to continue\")\n    try:\n        serial_device_before_connect = listdir(\"/dev/serial/by-id\")\n    except FileNotFoundError:\n        serial_device_before_connect = []\n    print(\"\\nPlease connect USB-TTL of DGUS Display\")\n    input(\"And press Enter to continue\")\n    serial_device_after_connect = listdir(\"/dev/serial/by-id\")",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "setup_printer_ip",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "def setup_printer_ip():\n    print(\"Is the Display connected to same machine were (MainsailOS) is running on?\")\n    local_machine = input(\"(y/n):\")\n    if local_machine == \"y\":\n        printer_ip = \"127.0.0.1\"\n    else:\n        printer_ip = input(\"Please enter IP of MainsailOS machine:\")\n    print(f\"\\nUsing IP: {printer_ip}\")\n    return printer_ip\ndef update_serial_config(serial_device):",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "update_serial_config",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "def update_serial_config(serial_device):\n    serial_config_file = os.path.join(config_dir, \"serial_config.json\")\n    json_data = {}\n    try:\n        with open(serial_config_file) as json_file:\n            json_data = json.load(json_file)\n    except FileNotFoundError:\n        print(\"Unable to read configuration from %s\", serial_config_file)\n        return False\n    json_data[\"com_interface\"][\"serial_port\"] = serial_device",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "update_websocket_config",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "def update_websocket_config(ip):\n    websocket_config_file = os.path.join(config_dir, \"websocket.json\")\n    json_data = {}\n    try:\n        with open(websocket_config_file) as json_file:\n            json_data = json.load(json_file)\n    except FileNotFoundError:\n        print(\"Unable to read configuration from %s\", websocket_config_file)\n        return False\n    json_data[\"websocket\"][\"ip\"] = ip",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "parser = argparse.ArgumentParser()\nparser.add_argument('-c', '--config_dir', type=str, help=\"Path to config directory\")\nargs = parser.parse_args()\nconfig_dir = os.path.join(os.getcwd(), \"..\", \"config\")\nif args.config_dir:\n    config_dir = args.config_dir\ndef determine_serial_interface():\n    print(\"Please disconnect USB-TTL used for DGUS Display...\")\n    input(\"Press Enter to continue\")\n    try:",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "args = parser.parse_args()\nconfig_dir = os.path.join(os.getcwd(), \"..\", \"config\")\nif args.config_dir:\n    config_dir = args.config_dir\ndef determine_serial_interface():\n    print(\"Please disconnect USB-TTL used for DGUS Display...\")\n    input(\"Press Enter to continue\")\n    try:\n        serial_device_before_connect = listdir(\"/dev/serial/by-id\")\n    except FileNotFoundError:",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "config_dir",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "config_dir = os.path.join(os.getcwd(), \"..\", \"config\")\nif args.config_dir:\n    config_dir = args.config_dir\ndef determine_serial_interface():\n    print(\"Please disconnect USB-TTL used for DGUS Display...\")\n    input(\"Press Enter to continue\")\n    try:\n        serial_device_before_connect = listdir(\"/dev/serial/by-id\")\n    except FileNotFoundError:\n        serial_device_before_connect = []",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "serial_device",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "serial_device = determine_serial_interface()\nprint(\"\\n\\nStep 2) Setup Moonraker IP\")\nprinter_ip = setup_printer_ip()\nupdate_serial_config(serial_device)\nupdate_websocket_config(printer_ip)",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "printer_ip",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.config_edit",
+        "description": "Wiki.klipper-dgus-master.src.config_edit",
+        "peekOfCode": "printer_ip = setup_printer_ip()\nupdate_serial_config(serial_device)\nupdate_websocket_config(printer_ip)",
+        "detail": "Wiki.klipper-dgus-master.src.config_edit",
+        "documentation": {}
+    },
+    {
+        "label": "DataAddress",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.data_addresses",
+        "description": "Wiki.klipper-dgus-master.src.data_addresses",
+        "peekOfCode": "class DataAddress(IntEnum):\n    #Spontanous Transmission\n    SPONT_MOVE_DISTANCE = 0x0005\n    SPONT_EXTRUDER_TEMP_SETPOINT = 0x0010\n    SPONT_BED_TEMP_SETPOINT = 0x0011\n    SPONT_MOVE_BUTTON = 0x0012\n    SPONT_ZOFFET_DISTANCE = 0x0014\n    SPONT_ZOFFSET_BUTTON = 0x0013\n    SPONT_SPEED_FACTOR_SETPOINT = 0x0015\n    SPONT_EXTRUSION_FACTOR_SETPOINT = 0x0016",
+        "detail": "Wiki.klipper-dgus-master.src.data_addresses",
+        "documentation": {}
+    },
+    {
+        "label": "get_request_data_cb",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "def get_request_data_cb() -> bytes:\n    return build_write_vp(0x5010, [0x00, 0x08])\ndef get_switch_mask_cb() -> bytes:\n    return build_mask_switch_request(1)\ndef response_received_cb(response : bytes):\n    pass\nswitch_mask_req = Request(get_switch_mask_cb, response_received_cb, \"Switch Mask\")\nreq = Request(get_request_data_cb, response_received_cb, \"Testing\")\nSERIAL_PORT = \"/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0\"\ncom_interface = SerialCommunication(SERIAL_PORT)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "get_switch_mask_cb",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "def get_switch_mask_cb() -> bytes:\n    return build_mask_switch_request(1)\ndef response_received_cb(response : bytes):\n    pass\nswitch_mask_req = Request(get_switch_mask_cb, response_received_cb, \"Switch Mask\")\nreq = Request(get_request_data_cb, response_received_cb, \"Testing\")\nSERIAL_PORT = \"/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0\"\ncom_interface = SerialCommunication(SERIAL_PORT)\ncom_interface.start_com_thread()\ncom_interface.queue_request(switch_mask_req)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "response_received_cb",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "def response_received_cb(response : bytes):\n    pass\nswitch_mask_req = Request(get_switch_mask_cb, response_received_cb, \"Switch Mask\")\nreq = Request(get_request_data_cb, response_received_cb, \"Testing\")\nSERIAL_PORT = \"/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0\"\ncom_interface = SerialCommunication(SERIAL_PORT)\ncom_interface.start_com_thread()\ncom_interface.queue_request(switch_mask_req)\ncom_interface.queue_request(req)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "switch_mask_req",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "switch_mask_req = Request(get_switch_mask_cb, response_received_cb, \"Switch Mask\")\nreq = Request(get_request_data_cb, response_received_cb, \"Testing\")\nSERIAL_PORT = \"/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0\"\ncom_interface = SerialCommunication(SERIAL_PORT)\ncom_interface.start_com_thread()\ncom_interface.queue_request(switch_mask_req)\ncom_interface.queue_request(req)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "req",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "req = Request(get_request_data_cb, response_received_cb, \"Testing\")\nSERIAL_PORT = \"/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0\"\ncom_interface = SerialCommunication(SERIAL_PORT)\ncom_interface.start_com_thread()\ncom_interface.queue_request(switch_mask_req)\ncom_interface.queue_request(req)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "SERIAL_PORT",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "SERIAL_PORT = \"/dev/serial/by-id/usb-Prolific_Technology_Inc._USB-Serial_Controller-if00-port0\"\ncom_interface = SerialCommunication(SERIAL_PORT)\ncom_interface.start_com_thread()\ncom_interface.queue_request(switch_mask_req)\ncom_interface.queue_request(req)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "com_interface",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.display_testing",
+        "description": "Wiki.klipper-dgus-master.src.display_testing",
+        "peekOfCode": "com_interface = SerialCommunication(SERIAL_PORT)\ncom_interface.start_com_thread()\ncom_interface.queue_request(switch_mask_req)\ncom_interface.queue_request(req)",
+        "detail": "Wiki.klipper-dgus-master.src.display_testing",
+        "documentation": {}
+    },
+    {
+        "label": "ExtruderMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.extruder_mask",
+        "description": "Wiki.klipper-dgus-master.src.extruder_mask",
+        "peekOfCode": "class ExtruderMask(Mask):\n    web_socket : WebsocketInterface = None\n    temp_extruder = MoonrakerDataVariable\n    target_temp_extruder = MoonrakerDataVariable\n    display : Display \n    feed_amount_setpoint : int = 1\n    feed_rate_setpoint : int = 1\n    def __init__(self, com_interface: SerialCommunication, web_socket : WebsocketInterface, display : Display) -> None:\n        super().__init__(4, com_interface)\n        self.web_socket = web_socket",
+        "detail": "Wiki.klipper-dgus-master.src.extruder_mask",
+        "documentation": {}
+    },
+    {
+        "label": "ExtruderTemperatureToLowMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.extruder_temp_to_low_mask",
+        "description": "Wiki.klipper-dgus-master.src.extruder_temp_to_low_mask",
+        "peekOfCode": "class ExtruderTemperatureToLowMask(Mask):\n    def __init__(self, com_interface: SerialCommunication, web_socket : WebsocketInterface) -> None:\n        super().__init__(52, com_interface)\n        min_extrude_temp = MoonrakerDataVariable(\n            comInterface=com_interface,\n            dataAddress=DataAddress.MIN_EXTRUDE_TEMPERATURE,\n            dataLength=1,\n            configAddress=DataAddress.UNDEFINED,\n            websock=web_socket\n        )",
+        "detail": "Wiki.klipper-dgus-master.src.extruder_temp_to_low_mask",
+        "documentation": {}
+    },
+    {
+        "label": "FanMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.fan_display_mask",
+        "description": "Wiki.klipper-dgus-master.src.fan_display_mask",
+        "peekOfCode": "class FanMask(Mask):\n    run_fan_state_query_thread : bool = False\n    fan_state_query_thread : Thread  = None\n    websock : WebsocketInterface  = None\n    fan_speed_mutex = Lock()\n    def __init__(self, com_interface: SerialCommunication, websocket : WebsocketInterface) -> None:\n        super().__init__(5, com_interface)\n        com_interface.register_spontaneous_callback(DataAddress.SPONT_LED_CONTROL_BUTTON, self.led_button_pressed)\n        com_interface.register_spontaneous_callback(DataAddress.SPONT_EXTRUDER_FAN_SPEED_SETPOINT_ASCII, self.received_ascii_led_setpoint)\n        self.websock = websocket",
+        "detail": "Wiki.klipper-dgus-master.src.fan_display_mask",
+        "documentation": {}
+    },
+    {
+        "label": "HomeingDisplayMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.homeing_mask",
+        "description": "Wiki.klipper-dgus-master.src.homeing_mask",
+        "peekOfCode": "class HomeingDisplayMask(Mask):\n    web_socket : WebsocketInterface = None\n    homed_axes : TextVariable = None\n    def __init__(self, mask_no, com_interface: SerialCommunication, web_sock : WebsocketInterface) -> None:\n        super().__init__(mask_no, com_interface)\n        self.web_socket = web_sock\n        self.homed_axes = MoonrakerTextVariable(com_interface, DataAddress.HOMED_AXES, DataAddress.UNDEFINED, 9, web_sock)\n        self.controls.append(self.homed_axes)\n        self.homed_axes.set_klipper_data([\"toolhead\", \"homed_axes\"])",
+        "detail": "Wiki.klipper-dgus-master.src.homeing_mask",
+        "documentation": {}
+    },
+    {
+        "label": "KeyCodes",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.keycodes",
+        "description": "Wiki.klipper-dgus-master.src.keycodes",
+        "peekOfCode": "class KeyCodes(IntEnum):\n    MoveXPlus = 0x0010\n    MoveXMinus = 0x0011\n    MoveYPlus = 0x0012\n    MoveYMinus = 0x0013\n    MoveZPlus = 0x0014\n    MoveZMinus = 0x0015\n    HomeXY = 0x0016\n    HomeZ = 0x0017\n    HomeAll = 0x0018",
+        "detail": "Wiki.klipper-dgus-master.src.keycodes",
+        "documentation": {}
+    },
+    {
+        "label": "emergency_stop_pressed",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.main",
+        "description": "Wiki.klipper-dgus-master.src.main",
+        "peekOfCode": "def emergency_stop_pressed(response : bytes):\n    response_payload = response[7:]\n    keycode = int.from_bytes(response_payload, byteorder='big')\n    if keycode == 0xFFFF:\n        #TODO: define ID in request_id.py\n        emergeny_stop_rpc_cmd = {\n            \"jsonrpc\": \"2.0\",\n            \"method\": \"printer.emergency_stop\",\n            \"id\": 4564\n        }",
+        "detail": "Wiki.klipper-dgus-master.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.main",
+        "description": "Wiki.klipper-dgus-master.src.main",
+        "peekOfCode": "parser = argparse.ArgumentParser()\nparser.add_argument('-c', '--config_dir', type=str, help=\"Path to config directory\")\nargs = parser.parse_args()\nconfig_dir = os.path.join(os.getcwd(), \"..\", \"config\")\nif args.config_dir:\n    config_dir = args.config_dir\nimport json\nimport sys\nimport logging\nimport logging.config",
+        "detail": "Wiki.klipper-dgus-master.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.main",
+        "description": "Wiki.klipper-dgus-master.src.main",
+        "peekOfCode": "args = parser.parse_args()\nconfig_dir = os.path.join(os.getcwd(), \"..\", \"config\")\nif args.config_dir:\n    config_dir = args.config_dir\nimport json\nimport sys\nimport logging\nimport logging.config\nlogger_json_file = os.path.join(config_dir, \"logging.json\")\nwith open(logger_json_file) as json_file:",
+        "detail": "Wiki.klipper-dgus-master.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "config_dir",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.main",
+        "description": "Wiki.klipper-dgus-master.src.main",
+        "peekOfCode": "config_dir = os.path.join(os.getcwd(), \"..\", \"config\")\nif args.config_dir:\n    config_dir = args.config_dir\nimport json\nimport sys\nimport logging\nimport logging.config\nlogger_json_file = os.path.join(config_dir, \"logging.json\")\nwith open(logger_json_file) as json_file:\n    json_data = json.load(json_file)",
+        "detail": "Wiki.klipper-dgus-master.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger_json_file",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.main",
+        "description": "Wiki.klipper-dgus-master.src.main",
+        "peekOfCode": "logger_json_file = os.path.join(config_dir, \"logging.json\")\nwith open(logger_json_file) as json_file:\n    json_data = json.load(json_file)\n    logging.config.dictConfig(json_data)\nfrom signal import signal, SIGINT\nfrom time import sleep\nfrom dgus.display.communication.request import Request\nfrom dgus.display.communication.protocol import build_write_vp\nfrom dgus.display.communication.communication_interface import SerialCommunication\nfrom dgus.display.display import Display",
+        "detail": "Wiki.klipper-dgus-master.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.main",
+        "description": "Wiki.klipper-dgus-master.src.main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef emergency_stop_pressed(response : bytes):\n    response_payload = response[7:]\n    keycode = int.from_bytes(response_payload, byteorder='big')\n    if keycode == 0xFFFF:\n        #TODO: define ID in request_id.py\n        emergeny_stop_rpc_cmd = {\n            \"jsonrpc\": \"2.0\",\n            \"method\": \"printer.emergency_stop\",\n            \"id\": 4564",
+        "detail": "Wiki.klipper-dgus-master.src.main",
+        "documentation": {}
+    },
+    {
+        "label": "OverviewDisplayMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.overview_display_mask",
+        "description": "Wiki.klipper-dgus-master.src.overview_display_mask",
+        "peekOfCode": "class OverviewDisplayMask(Mask):\n    websock : WebsocketInterface = None\n    temp_extruder = MoonrakerDataVariable\n    target_temp_extruder = MoonrakerDataVariable\n    temp_bed = MoonrakerDataVariable\n    target_temp_bed = MoonrakerDataVariable\n    klippy_state = MoonrakerTextVariable\n    printer_state = MoonrakerTextVariable\n    print_time_total = MoonrakerPrintTimeTextVariable\n    print_time_till_finished = MoonrakerPrintTimeTextVariable",
+        "detail": "Wiki.klipper-dgus-master.src.overview_display_mask",
+        "documentation": {}
+    },
+    {
+        "label": "read_json_config",
+        "kind": 2,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "def read_json_config(serial_config_json_file):\n        try:\n            with open(serial_config_json_file) as json_file:\n                json_data = json.load(json_file)\n                return json_data\n        except FileNotFoundError:\n            print(\"Could not open: %s\", serial_config_json_file)\nprint(\"Klipper for DGUS - Settings Common Parameters:\\n\")\nwebsocket_json_file = os.path.join(config_dir, \"websocket.json\")\nwebsocket_json = read_json_config(websocket_json_file)",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "parser = argparse.ArgumentParser()\nparser.add_argument('-c', '--config_dir', type=str, help=\"Path to config directory\")\nargs = parser.parse_args()\nif args.config_dir:\n    config_dir = args.config_dir\nelse:\n    print(\"Error: Need -c (--config_dir) parameter\")\ndef read_json_config(serial_config_json_file):\n        try:\n            with open(serial_config_json_file) as json_file:",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "args = parser.parse_args()\nif args.config_dir:\n    config_dir = args.config_dir\nelse:\n    print(\"Error: Need -c (--config_dir) parameter\")\ndef read_json_config(serial_config_json_file):\n        try:\n            with open(serial_config_json_file) as json_file:\n                json_data = json.load(json_file)\n                return json_data",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_json_file",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "websocket_json_file = os.path.join(config_dir, \"websocket.json\")\nwebsocket_json = read_json_config(websocket_json_file)\nip = websocket_json[\"websocket\"][\"ip\"]\nport = websocket_json[\"websocket\"][\"port\"]\nprint(\"websocket.json:\")\nprint(f\"Printer IP: {ip}:{port}\" )\nserial_config_json_file = os.path.join(config_dir, \"serial_config.json\")\nserial_config_json = read_json_config(serial_config_json_file)\nserial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "websocket_json",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "websocket_json = read_json_config(websocket_json_file)\nip = websocket_json[\"websocket\"][\"ip\"]\nport = websocket_json[\"websocket\"][\"port\"]\nprint(\"websocket.json:\")\nprint(f\"Printer IP: {ip}:{port}\" )\nserial_config_json_file = os.path.join(config_dir, \"serial_config.json\")\nserial_config_json = read_json_config(serial_config_json_file)\nserial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")\nprint(f\"Serial Port: {serial_port}\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "ip",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "ip = websocket_json[\"websocket\"][\"ip\"]\nport = websocket_json[\"websocket\"][\"port\"]\nprint(\"websocket.json:\")\nprint(f\"Printer IP: {ip}:{port}\" )\nserial_config_json_file = os.path.join(config_dir, \"serial_config.json\")\nserial_config_json = read_json_config(serial_config_json_file)\nserial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")\nprint(f\"Serial Port: {serial_port}\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "port",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "port = websocket_json[\"websocket\"][\"port\"]\nprint(\"websocket.json:\")\nprint(f\"Printer IP: {ip}:{port}\" )\nserial_config_json_file = os.path.join(config_dir, \"serial_config.json\")\nserial_config_json = read_json_config(serial_config_json_file)\nserial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")\nprint(f\"Serial Port: {serial_port}\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "serial_config_json_file",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "serial_config_json_file = os.path.join(config_dir, \"serial_config.json\")\nserial_config_json = read_json_config(serial_config_json_file)\nserial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")\nprint(f\"Serial Port: {serial_port}\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "serial_config_json",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "serial_config_json = read_json_config(serial_config_json_file)\nserial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")\nprint(f\"Serial Port: {serial_port}\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "serial_port",
+        "kind": 5,
+        "importPath": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "description": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "peekOfCode": "serial_port = serial_config_json[\"com_interface\"][\"serial_port\"]\nprint(\"\\nserial_config.json:\")\nprint(f\"Serial Port: {serial_port}\")",
+        "detail": "Wiki.klipper-dgus-master.src.printout_common_config",
+        "documentation": {}
+    },
+    {
+        "label": "StartupMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.startup_mask",
+        "description": "Wiki.klipper-dgus-master.src.startup_mask",
+        "peekOfCode": "class StartupMask(Mask):\n    websock : WebsocketInterface = None\n    klippy_state_text : str = \"\"\n    KLIPPY_STATE_TEXT_LENGTH = 110\n    def __init__(self, com_interface: SerialCommunication, websock : WebsocketInterface) -> None:\n        super().__init__(50, com_interface)\n        self.websock = websock\n        websock.register_klippy_state_event_receiver(self.klippy_state_changed)\n        klippy_state_text = TextVariable(com_interface, DataAddress.KLIPPY_STATE_TEXT, DataAddress.UNDEFINED, self.KLIPPY_STATE_TEXT_LENGTH)\n        klippy_state_text.get_control_data_cb = self.get_klippy_state_text_cb",
+        "detail": "Wiki.klipper-dgus-master.src.startup_mask",
+        "documentation": {}
+    },
+    {
+        "label": "TuningMask",
+        "kind": 6,
+        "importPath": "Wiki.klipper-dgus-master.src.tuning_mask",
+        "description": "Wiki.klipper-dgus-master.src.tuning_mask",
+        "peekOfCode": "class TuningMask(Mask):\n    web_sock : WebsocketInterface = None\n    speed : MoonrakerDataVariable = None\n    extrusion : MoonrakerDataVariable = None\n    z_offset : MoonrakerDataVariable = None\n    query_slider_value_thread : Thread = None\n    run_query_slider_value = False\n    SPEED_FACTOR = 0\n    EXTRUSION_FACTOR = 1\n    z_offset_move_distance = 0.01",
+        "detail": "Wiki.klipper-dgus-master.src.tuning_mask",
+        "documentation": {}
+    }
+]
